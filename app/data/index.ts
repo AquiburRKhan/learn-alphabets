@@ -21,7 +21,7 @@ export const capitalLetters = [
     tailwindColor: "text-yellow-500",
     color: "yellow",
     model: "apple.glb",
-    text: "C IS FOR CAR!",
+    text: "C IS FOR CARROT!",
   },
   {
     letter: "D",
